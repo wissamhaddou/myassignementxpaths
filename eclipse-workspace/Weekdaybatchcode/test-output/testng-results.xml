@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20911" started-at="2023-02-05T17:37:09 CST" finished-at="2023-02-05T17:37:30 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20911" started-at="2023-02-05T17:37:09 CST" finished-at="2023-02-05T17:37:30 CST">
+      <class name="testngautomationcode31jan2023.Multipleswebsite">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testngautomationcode31jan2023.Multipleswebsite@710726a3]" name="openBrowser" is-config="true" duration-ms="4297" started-at="2023-02-05T17:37:10 CST" finished-at="2023-02-05T17:37:14 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="openFlipkart()[pri:0, instance:testngautomationcode31jan2023.Multipleswebsite@710726a3]" name="openFlipkart" duration-ms="4477" started-at="2023-02-05T17:37:14 CST" finished-at="2023-02-05T17:37:18 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFlipkart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testngautomationcode31jan2023.Multipleswebsite@710726a3]" name="tearDown" is-config="true" duration-ms="796" started-at="2023-02-05T17:37:18 CST" finished-at="2023-02-05T17:37:19 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testngautomationcode31jan2023.Multipleswebsite@710726a3]" name="openBrowser" is-config="true" duration-ms="1841" started-at="2023-02-05T17:37:19 CST" finished-at="2023-02-05T17:37:21 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="openamazon()[pri:0, instance:testngautomationcode31jan2023.Multipleswebsite@710726a3]" name="openamazon" duration-ms="3300" started-at="2023-02-05T17:37:21 CST" finished-at="2023-02-05T17:37:24 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openamazon -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testngautomationcode31jan2023.Multipleswebsite@710726a3]" name="tearDown" is-config="true" duration-ms="767" started-at="2023-02-05T17:37:24 CST" finished-at="2023-02-05T17:37:25 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testngautomationcode31jan2023.Multipleswebsite@710726a3]" name="openBrowser" is-config="true" duration-ms="1920" started-at="2023-02-05T17:37:25 CST" finished-at="2023-02-05T17:37:27 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="openwalmart()[pri:0, instance:testngautomationcode31jan2023.Multipleswebsite@710726a3]" name="openwalmart" duration-ms="2695" started-at="2023-02-05T17:37:27 CST" finished-at="2023-02-05T17:37:30 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openwalmart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testngautomationcode31jan2023.Multipleswebsite@710726a3]" name="tearDown" is-config="true" duration-ms="765" started-at="2023-02-05T17:37:30 CST" finished-at="2023-02-05T17:37:30 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testngautomationcode31jan2023.Multipleswebsite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
