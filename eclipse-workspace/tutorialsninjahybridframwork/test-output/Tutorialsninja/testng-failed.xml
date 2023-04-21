@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Tutorialsninja]">
+  <test thread-count="5" name="Tutorialsninjatestcases(failed)">
+    <classes>
+      <class name="com.tutorialsninja.framwork.tutorialsninjahybridframwork.Register">
+        <methods>
+          <include name="verifyRegistringaccountwithexistingemailadress"/>
+          <include name="verifyRegisteringAnAccountwithmandatoryfields"/>
+          <include name="teardown"/>
+          <include name="verifyRegisteringAccountwithoutfillinganydetails"/>
+          <include name="verifyRegisteringAccountbyprovidingallfields"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.tutorialsninja.framwork.tutorialsninjahybridframwork.Register -->
+      <class name="com.tutorialsninja.framwork.tutorialsninjahybridframwork.Search">
+        <methods>
+          <include name="verifysearchwithinvalidproduct"/>
+          <include name="verifysearchwithvalidproduct"/>
+          <include name="teardown"/>
+          <include name="verifysearchwithoutanyproduct"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.tutorialsninja.framwork.tutorialsninjahybridframwork.Search -->
+      <class name="com.tutorialsninja.framwork.tutorialsninjahybridframwork.Login">
+        <methods>
+          <include name="teadown"/>
+          <include name="verifyLoginWithInvalidcredentials"/>
+          <include name="verifyLoginwithinvalidemailandvalidpassword"/>
+          <include name="verifyLoginwithvalidemailandinvalidpassword"/>
+          <include name="verifyloginwithoutprividingcredentials"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.tutorialsninja.framwork.tutorialsninjahybridframwork.Login -->
+    </classes>
+  </test> <!-- Tutorialsninjatestcases(failed) -->
+</suite> <!-- Failed suite [Tutorialsninja] -->
